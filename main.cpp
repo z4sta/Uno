@@ -10,9 +10,10 @@ int main()
     vector<bool> test;
 
     test.push_back(true);
-    test.push_back(false);
+    test.push_back(true);
 
     
+
 
     for (const string& word : msg)
     {
